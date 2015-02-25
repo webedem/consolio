@@ -1,0 +1,13 @@
+{
+    "package": "DEMOFUNCTION",
+    "desc": "This function does this and that",
+    "usage": "Type demo to run this command",
+    "author": "Kris Leo",
+    "version": "0.1",
+    "published": "12/01/2015",
+    "function": {
+        "name": "demo",
+        "help": "This is a test function with no parameters",
+        "src": "http://www.consolio.co/packages/demo.js"
+    }
+}
