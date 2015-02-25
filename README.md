@@ -16,5 +16,5 @@ You can install external functions by referencing the package.json URL of that f
 
 ###Available external functions:
 
-(See external_commands.md)
+(See functions_list.md)
 
