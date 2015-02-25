@@ -16,7 +16,5 @@ You can install external functions by referencing the package.json URL of that f
 
 ###Available external functions:
 
-* __styleme__ : Theme your consolio (http://www.consolio.co/packages/styleme/package.json)
-* __websearch__ : Perform a websearch from your consolio (http://www.consolio.co/packages/websearch/package.json)
-* __opap__ : Get the latest OPAP (Greece) results for Joker and Lotto (http://www.consolio.co/packages/opap/package.json)
+(See external_commands.md)
 
