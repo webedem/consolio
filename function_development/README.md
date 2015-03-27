@@ -11,7 +11,7 @@ You will need a package.json file for installing your command (sample here: http
 
 You can install external functions by referencing the package.json URL of that function.
 
-#####Current version is 0.2.0 nightly
+#####Current version is 0.1.0 nightly
 
 
 ###Available external functions:
