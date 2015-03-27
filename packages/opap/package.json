@@ -1,0 +1,12 @@
+{
+    "package": "OPAP",
+    "desc": "Shows the latest LOTTO and JOKER results from OPAP",
+    "author": "Kris Leo",
+    "version": "0.1",
+    "published": "15/01/2015",
+    "function": {
+        "name": "opap",
+        "help": "Show the last OPAP results for joker or lotto (params: lotto, joker)",
+        "src": "http://www.consolio.co/packages/opap/opap.js"
+    }
+}

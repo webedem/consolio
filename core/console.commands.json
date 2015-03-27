@@ -1,0 +1,67 @@
+{
+    "hacktoday":{
+		"fn": "$.getHack(parameters)",
+		"help": "Get  today's hack",
+		"src":"core"
+    },
+    "dir":{
+		"fn": "$.dir()",
+		"help": "Get directory listings",
+		"src":"core"
+    },
+    "clear":{
+		"fn": "$.cls()",
+		"help": "Clear the shell screen",
+		"src":"core"
+    },
+    "help": {
+        "fn": "$.showHelp()",
+        "help": "Display this help message",
+        "src": "core"
+    },
+    "version": {
+        "fn": "$.getVersion()",
+        "help": "Display the current version",
+        "src": "core"
+    },
+    "reminder": {
+        "fn": "$.setCountdown(parameters)",
+        "help": "Set a reminder in your browser for X minutes (example: reminder 1 this is a test)",
+        "src": "core"
+    },    
+    "time": {
+        "fn": "$.getTime()",
+        "help": "Display the current time",
+        "src": "core"
+    },
+    "date": {
+        "fn": "$.getDate()",
+        "help": "Display the current date",
+        "src": "core"
+    },
+    "now": {
+        "fn": "$.getDateTime()",
+        "help": "Display the current date and time",
+        "src": "core"
+    },
+    "install": {
+        "fn": "$.installService(parameters)",
+        "help": "Install a new external function by providing its URL (JSON package)",
+        "src": "core"
+    },
+    "remove": {
+        "fn": "$.removeService(parameters)",
+        "help": "Remove an installed external function",
+        "src": "core"
+    },
+    "info": {
+		"fn": "$.functionDetails(parameters)",
+		"help": "Shows information for a given external function, such as author and version",
+		"src": "core"
+    },
+    "whois": {
+		"fn": "$.whois(parameters)",
+		"help": "Shows whois information for a given domain name",
+		"src": "core"
+    }    
+}

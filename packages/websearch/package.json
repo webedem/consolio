@@ -1,0 +1,13 @@
+{
+    "package": "WEBSEARCH",
+	"desc": "This function performs a web search in Google, Yahoo, DuckDuckGo and Bing",
+	"usage": "Type search followed by -g (for google) or -b (for bing) or -d (for duck duck go) or -y (for Yahoo) and then your keywords",
+    "author": "Kris Leo",
+    "version": "1.0",
+    "published": "24/02/2015",
+    "function": {
+        "name": "search",
+        "help": "Perform a websearch from your consolio. Type search followed by -g (for google) or -b (for bing) or -d (for duck duck go) or -y (for Yahoo) and then your keywords",
+        "src": "http://www.consolio.co/packages/websearch/search.js"
+    }
+}

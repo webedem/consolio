@@ -1,0 +1,13 @@
+{
+    "package": "STYLEME",
+    "desc": "Import an external CSS to style the shell's background",
+    "usage": "styleme -themes OR styleme themename OR styleme CSS_URL",
+    "author": "Kris Leo",
+    "version": "0.1",
+    "published": "02/02/2015",
+    "function": {
+        "name": "styleme",
+        "help": "Import an external CSS to style the shell's background (params: URL or -themes OR themename)",
+        "src": "http://www.consolio.co/packages/styleme/styleme.js"
+    }
+}

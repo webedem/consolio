@@ -1,0 +1,47 @@
+{
+    "clear":{
+		"fn": "$.cls()",
+		"help": "Clear the shell screen",
+		"src":"core"
+    },
+    "help": {
+        "fn": "$.showHelp()",
+        "help": "Display this help message",
+        "src": "core"
+    },
+    "version": {
+        "fn": "$.getVersion()",
+        "help": "Display the current version",
+        "src": "core"
+    },  
+    "time": {
+        "fn": "$.getTime()",
+        "help": "Display the current time",
+        "src": "core"
+    },
+    "date": {
+        "fn": "$.getDate()",
+        "help": "Display the current date",
+        "src": "core"
+    },
+    "now": {
+        "fn": "$.getDateTime()",
+        "help": "Display the current date and time",
+        "src": "core"
+    },
+    "about": {
+		"fn": "$.about()",
+		"help": "About Consolio",
+		"src": "core"
+    },
+    "github": {
+		"fn": "$.github()",
+		"help": "Visit GitHub and see documentation on how to create functions",
+		"src": "core"
+    },
+    "newuser": {
+		"fn": "$.register()",
+		"help": "Create and connect to your own instance",
+		"src": "core"
+    }
+}

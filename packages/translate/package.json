@@ -1,0 +1,13 @@
+{
+    "package": "TRANSLATE",
+    "desc": "Translate a text to another language",
+    "usage": "translate lang_code_from lang_code_to and then your text (example: translate en el This is a test",
+    "author": "Kris Leo",
+    "version": "0.1",
+    "published": "24/02/2015",
+    "function": {
+        "name": "translate",
+        "help": "Translate a text to another language",
+        "src": "http://www.consolio.co/packages/translate/translate.js"
+    }
+}

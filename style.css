@@ -1,0 +1,18 @@
+* { color: #fff; font-family: 'Droid Sans Mono', "Courier New", Courier, monospace; font-size: 0.95em !important;} 
+body{ background: #000;  padding: 10px; margin: 0px; text-align: left;  }
+#shell{ width: 100%; display: block; color: #fff; line-height: 1.3em !important; }
+#shell>input{  width: 98%; border: none; background: rgba(0,0,0,0); outline: none;  }
+div.clear{ clear: both; }
+b{ color: #ededed; font-size: 100%; }
+p{ margin-top: 2px;font-size: 0.9em !important;}
+p.out{  color: #999 !important; font-size: 0.8em !important;  }
+table th{ border-bottom: 1px dashed #ccc;  }
+table td{ line-height: 1.5em !important; }
+.green{ color: #008000; }
+.red{ color: #FF0000; }
+.cyan{ color: cyan; }
+.blue{ color: blue; }
+.magenta{ color: magenta; }
+pre{ font-family: monospace, Courier !important; }
+table.dir td{ padding-right: 30px !important;  }
+table.dir td.folder{ color: cyan; }
